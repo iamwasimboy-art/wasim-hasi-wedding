@@ -5,9 +5,8 @@ Files:
 - assets/bride.jpg: bride photo supplied in chat
 - assets/groom.jpg: groom photo supplied in chat
 
-Wedding date currently set to 11 March 2027 at 11:00 AM, based on the latest edited details.
-Haldi is shown as 12 March 2027 (time to be confirmed).
-Reception time is shown as 11:00 AM, but its date/venue are marked to be confirmed because they were not supplied.
+Wedding date currently set to 12 March 2027 at 11:00 AM, based on the latest edited details.
+Reception time is shown as 13 March at11:00 AM, but its date/venue are marked to be confirmed because they were not supplied.
 
 Background music:
 Add a music file you have permission to use at assets/music.mp3. Then redeploy.
