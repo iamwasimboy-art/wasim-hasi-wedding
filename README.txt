@@ -15,7 +15,7 @@ Browsers generally require a tap before music can start.
 Before publishing:
 - Confirm whether the wedding date is 11 March or 12 March 2027.
 - Confirm the reception date and venue.
-- Check the Google Maps search result and adjust the location link to the exact venue pin.
+- Check the Google Maps search result and adjust the location link https://maps.app.goo.gl/e9tYM96Sb2fDYYVL7 to the exact venue pin.
 - Confirm that the WhatsApp number is 9382225415, including country code (India +91).
 
 Deploy:
