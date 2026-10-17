@@ -16,7 +16,7 @@ Before publishing:
 - Confirm whether the wedding date is 11 March or 12 March 2027.
 - Confirm the reception date and venue.
 - Check the Google Maps search result and adjust the location link to the exact venue pin.
-- Confirm that the WhatsApp RSVP number is correct, including country code (India +91).
+- Confirm that the WhatsApp number is 9382225415, including country code (India +91).
 
 Deploy:
 1. Extract the ZIP.
